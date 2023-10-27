@@ -37,7 +37,7 @@
 - GPT Search Feature
 - GPT Search Bar
 - Multiple Language Feature in our Application
-- Inti
+- 
 
 ## Features
 
