@@ -62,3 +62,5 @@
 - NetflixGPT
 - Search Bar
 - Movie Suggestions
+
+- ### check out project here ✔ :- https://netflixgpt21.netlify.app/
