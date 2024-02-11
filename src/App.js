@@ -8,6 +8,7 @@ function App() {
       <Body />
       </Provider>
   );
+
 }
 
 export default App;
